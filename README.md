@@ -14,6 +14,7 @@ To create a 3D model from given orthographic projection.
 2.	Select the plane for sketching. 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+4.	
 
 ![image](https://user-images.githubusercontent.com/113594316/198823371-bacc7928-28aa-45dd-a652-8833f95e3ea9.png)
 
